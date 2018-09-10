@@ -1,0 +1,15 @@
+Analyzing the Data for the Heroes of Pymoli Game
+Carol Thompson
+       I looked at the data in the three primary areas involved in this assignment and came up with trends
+ and directions the manufacturer of this game should consider 
+
+       Looking at gender, the male group is obviously the largest but considering how much is spent per 
+person between the female and other group both spend 40-50 cents more per person than the males. That means 
+the female and other group is an area to consider for profitable growth. 
+       Considering age, the three ranges from 15-29 are clearly the prime market and when looking at spending 
+per person there is no clear difference in an age group to motivate targeting a group outside this age range 
+for growth. That means this game company should clearly focus marketing on the 15-29 age group.
+       For popularity of items, given that the average price of an item is $3.05 it is interesting that the 
+most popular items are mostly above this. The most popular item being priced at $4.23 or more than a dollar 
+above the average. There are more items available at a lower price, but those items are not the most popular. 
+For further development this company should consider more items in the higher price range.
